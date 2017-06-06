@@ -3432,15 +3432,26 @@ h1.idy_lettering {
 }
 @media (max-width: 768px) {
   #story {
-    background-image:url(../img/content/center2.jpg);
+    background-image:url(../img/content/back_center_mobile.jpg) !important;
+  }
+  .idy_intro_back_img{
+    background-image:url(../img/content/back_mobile.jpg) !important;
+  }
+  #animation-center{
+    display: none;
+  }
   }
 }
-@media (min-width: 770px) {
-  #story {
-    background-image:url(../img/content/center.jpg);
-  }
+@media (max-width: 1500px) {
+
 }
 @media (min-width: 1200px) {
   .fw-container {
   }
+}
+#story {
+  background-image:url(../img/content/back_center.jpg);
+}
+.idy_intro_back_img{
+  background-image:url(../img/content/back.jpg);
 }
