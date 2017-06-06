@@ -3440,6 +3440,9 @@ h1.idy_lettering {
   #animation-center{
     display: none;
   }
+  .love-mobile {
+    display: block !important;
+  }
   }
 }
 @media (max-width: 1500px) {
@@ -3454,4 +3457,7 @@ h1.idy_lettering {
 }
 .idy_intro_back_img{
   background-image:url(../img/content/back.jpg);
+}
+.love-mobile {
+  display: none;
 }
