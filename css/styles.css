@@ -134,3 +134,6 @@
 .fw-iconbox-3.icon-circle .fw-iconbox-image img {
 	border-radius: 50%;
 }
+.carousel-control{
+	background-color: #fff !important;
+}
