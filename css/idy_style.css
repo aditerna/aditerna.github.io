@@ -3430,13 +3430,11 @@ h1.idy_lettering {
 @media (min-width:1400px){
 
 }
-@media (max-width: 768px) {
+@media (max-width: 868px) {
   #story {
     background-image:url(../img/content/back_center_mobile.jpg) !important;
   }
-  .idy_intro_back_img{
-    background-image:url(../img/content/back_mobile.jpg) !important;
-  }
+  
   #animation-center{
     display: none;
   }
