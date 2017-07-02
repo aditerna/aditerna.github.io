@@ -3458,6 +3458,7 @@ h1.idy_lettering {
 .idy_intro_back_img{
   background-size: cover;
   height:100vh;
+  width: 100vw;
             background-repeat: no-repeat;
             background-position: center;
   background-image:url(../img/content/back.jpg);
