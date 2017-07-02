@@ -3460,7 +3460,7 @@ h1.idy_lettering {
   height:100vh;
   width: 100vw;
             background-repeat: no-repeat;
-            background-position: center;
+            background-position: top;
   background-image:url(../img/content/back.jpg);
 }
 .love-mobile {
