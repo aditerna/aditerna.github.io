@@ -3434,7 +3434,9 @@ h1.idy_lettering {
   #story {
     background-image:url(../img/content/back_center_mobile.jpg) !important;
   }
-  
+  .idy_intro_back_img{
+    background-image:url(../img/content/back_mobile.jpg) !important;
+  }
   #animation-center{
     display: none;
   }
@@ -3454,6 +3456,10 @@ h1.idy_lettering {
   background-image:url(../img/content/back_center.jpg);
 }
 .idy_intro_back_img{
+  background-size: cover;
+  height:100vh;
+            background-repeat: no-repeat;
+            background-position: center;
   background-image:url(../img/content/back.jpg);
 }
 .love-mobile {
